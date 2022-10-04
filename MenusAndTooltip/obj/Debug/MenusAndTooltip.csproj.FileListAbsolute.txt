@@ -1,0 +1,9 @@
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\bin\Debug\MenusAndTooltip.exe.config
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\bin\Debug\MenusAndTooltip.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\bin\Debug\MenusAndTooltip.pdb
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\obj\Debug\MenusAndTooltip.csprojResolveAssemblyReference.cache
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\obj\Debug\MenusAndTooltip.Form1.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\obj\Debug\MenusAndTooltip.Properties.Resources.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\obj\Debug\MenusAndTooltip.csproj.GenerateResource.Cache
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\obj\Debug\MenusAndTooltip.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\MenusAndTooltip\MenusAndTooltip\obj\Debug\MenusAndTooltip.pdb
